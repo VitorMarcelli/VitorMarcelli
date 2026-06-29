@@ -32,6 +32,18 @@ Sou um **Desenvolvedor Fullstack e Especialista em Automação** dedicado a tran
 
 ---
 
+### 🌟 Ecossistema de Soluções & Cases de Sucesso
+
+> *Abaixo apresento o resumo executivo dos meus principais cases de alto impacto. (Explore os repositórios completos na seção Pinned logo abaixo).*
+
+| 🏆 Case / Projeto | 🎯 Impacto & Proposta de Valor | 🛠️ Tecnologias Principais | 🔗 Acesso Rápido |
+| :--- | :--- | :--- | :--- |
+| **[CRM Condomínios](https://github.com/VitorMarcelli/CRM_Condominios)** | Plataforma SaaS multi-tenant focada na gestão inteligente de condomínios, automação de processos internos e comunicação eficiente. | `TypeScript`, `Next.js`, `Prisma`, `PostgreSQL` | [🚀 Explorar Repositório](https://github.com/VitorMarcelli/CRM_Condominios) |
+| **[Automação NF-e & E-mails AI](https://github.com/VitorMarcelli/classificacao_inteligente_emails)** | Robôs de automação em Python com integração de IA para classificação inteligente de caixas de entrada e emissão automatizada de notas fiscais. | `Python`, `AI / IA`, `Automação`, `APIs` | [🧠 Ver Código AI](https://github.com/VitorMarcelli/classificacao_inteligente_emails) |
+| **[Empréstimos Consignados SaaS](https://github.com/VitorMarcelli/emprestimos_consignados_webapp)** | Aplicação financeira robusta para gestão, simulação e contratação de empréstimos consignados com foco em alta performance e UX. | `TypeScript`, `React`, `Tailwind CSS` | [💻 Acessar Webapp](https://github.com/VitorMarcelli/emprestimos_consignados_webapp) |
+
+---
+
 ### 🎓 Certificações & Evolução Contínua
 
 Acredito que a excelência técnica é impulsionada pelo aprendizado contínuo. Ao longo da minha carreira, consolidei meu conhecimento através de certificações e especializações práticas nas áreas de:
