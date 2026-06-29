@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vitor-augusto-marcelli/">
+  <a href="https://www.linkedin.com/in/vitor-augusto-marcelli-ba4070220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vihmarcellisantos@outlook.com">
@@ -18,13 +18,27 @@
 
 <br>
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim & Minhas Competências
 
-Sou um **Desenvolvedor Fullstack e Engenheiro de Software** apaixonado por transformar lógicas complexas de negócio em ecossistemas limpos, escaláveis e automatizados. Tenho forte atuação na criação de plataformas SaaS de alto valor e robôs de automação inteligente.
+Sou um **Desenvolvedor Fullstack e Especialista em Automação** dedicado a transformar lógicas corporativas complexas em ecossistemas modernos, seguros e automatizados. Navego fluidamente entre a concepção de interfaces web/mobile de alta performance e a construção de integrações inteligentes no backend.
 
-- 🏗️ **Foco Atual:** Arquiteturas Multi-Tenant, Ecossistemas SaaS de Alta Performance (como o *Sevilha Performance*) e Integração de APIs com IA.
-- 💡 **Filosofia de Código:** *Clean Code*, Design Patterns modulares, testes automatizados e interfaces visuais que encantam o usuário (*UI/UX Premium*).
-- 🤝 **Buscando:** Desafios de engenharia de ponta, consultorias em performance operacional e projetos inovadores.
+- 💻 **Desenvolvimento Fullstack:** Especialista no ecossistema **TypeScript/JavaScript** (React, Next.js, Node.js e NestJS), criando desde portfólios dinâmicos e CRMs completos (como o *CRM Condomínios*) até aplicações financeiras avançadas (*Empréstimos Consignados Webapp*).
+- 🤖 **Automação & Inteligência Artificial:** Forte atuação com **Python** na engenharia de scripts inteligentes para automação de processos repetitivos (como *emissão de NF-e automatizada* e *classificação inteligente de e-mails com IA*).
+- 🏛️ **Arquitetura & Qualidade:** Domínio de modelagem relacional limpa com **Prisma ORM**, bancos de dados PostgreSQL e ambientes em Nuvem/Serverless (Supabase).
+- 🎯 **Mindset de Engenharia:** Foco absoluto em *Clean Code*, boas práticas de refatoração, UI/UX imersivo e arquiteturas modulares escaláveis.
+
+---
+
+### 🎓 Certificações & Evolução Contínua
+
+Acredito que a excelência técnica é impulsionada pelo aprendizado contínuo. Ao longo da minha carreira, consolidei meu conhecimento através de certificações e especializações práticas nas áreas de:
+
+- 🏅 **Desenvolvimento Web Fullstack Avançado** (Especialização em TypeScript, React e Next.js).
+- 🏅 **Automação de Processos & Inteligência Artificial** (Engenharia de software em Python e manipulação de dados).
+- 🏅 **Arquiteturas Backend & Banco de Dados** (Design Patterns, Node.js/NestJS, Prisma ORM e PostgreSQL).
+- 🏅 **Fundamentos de Nuvem & DevOps** (Gestão de containers e plataformas Serverless).
+
+*(Visite o meu [LinkedIn](https://www.linkedin.com/in/vitor-augusto-marcelli-ba4070220/) para verificar as credenciais completas e histórico profissional).*
 
 ---
 
@@ -55,14 +69,14 @@ Sou um **Desenvolvedor Fullstack e Engenheiro de Software** apaixonado por trans
 ### 📊 Minhas Estatísticas Dinâmicas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorMarcelli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=008080&title_color=008080" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarcelli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=008080" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorMarcelli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=008080&title_color=008080&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarcelli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=008080&cache_seconds=1800" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorMarcelli&theme=radical&hide_border=true&background=0D1117&ring=008080&currStreakNum=008080" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorMarcelli&theme=radical&hide_border=true&background=0D1117&ring=008080&currStreakNum=008080&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
