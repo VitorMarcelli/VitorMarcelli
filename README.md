@@ -5,6 +5,9 @@
 <br>
 
 <div align="center">
+  <a href="https://vitormarcelli.github.io/portfoliovitormarcelli/">
+    <img src="https://img.shields.io/badge/Portfólio-008080?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfólio" />
+  </a>
   <a href="https://www.linkedin.com/in/vitor-augusto-marcelli-ba4070220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -22,7 +25,7 @@
 
 Sou um **Desenvolvedor Fullstack e Especialista em Automação** dedicado a transformar lógicas corporativas complexas em ecossistemas modernos, seguros e automatizados. Navego fluidamente entre a concepção de interfaces web/mobile de alta performance e a construção de integrações inteligentes no backend.
 
-- 💻 **Desenvolvimento Fullstack:** Especialista no ecossistema **TypeScript/JavaScript** (React, Next.js, Node.js e NestJS), criando desde portfólios dinâmicos e CRMs completos (como o *CRM Condomínios*) até aplicações financeiras avançadas (*Empréstimos Consignados Webapp*).
+- 💻 **Desenvolvimento Fullstack:** Especialista no ecossistema **TypeScript/JavaScript** (React, Next.js, Node.js e NestJS), criando desde portfólios dinâmicos ([veja meu portfólio ao vivo](https://vitormarcelli.github.io/portfoliovitormarcelli/)) e CRMs completos (como o *CRM Condomínios*) até aplicações financeiras avançadas (*Empréstimos Consignados Webapp*).
 - 🤖 **Automação & Inteligência Artificial:** Forte atuação com **Python** na engenharia de scripts inteligentes para automação de processos repetitivos (como *emissão de NF-e automatizada* e *classificação inteligente de e-mails com IA*).
 - 🏛️ **Arquitetura & Qualidade:** Domínio de modelagem relacional limpa com **Prisma ORM**, bancos de dados PostgreSQL e ambientes em Nuvem/Serverless (Supabase).
 - 🎯 **Mindset de Engenharia:** Foco absoluto em *Clean Code*, boas práticas de refatoração, UI/UX imersivo e arquiteturas modulares escaláveis.
@@ -45,24 +48,16 @@ Acredito que a excelência técnica é impulsionada pelo aprendizado contínuo. 
 ### 🛠️ Stacks & Tecnologias de Elite
 
 <div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br>
-  <!-- Backend & Automation -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <br>
-  <!-- Cloud & Database -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <h3>🌐 Frontend & UI Premium</h3>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend Stacks" />
+  
+  <br><br>
+
+  <h3>⚡ Backend, Cloud & Automação</h3>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,prisma,postgres,supabase,docker,git&theme=dark" alt="Backend Stacks" />
 </div>
+
+<br>
 
 ---
 
