@@ -61,17 +61,33 @@ Acredito que a excelência técnica é impulsionada pelo aprendizado contínuo. 
 
 ---
 
-### 📊 Minhas Estatísticas Dinâmicas no GitHub
+### 🏆 Troféus de Contribuição no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorMarcelli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=008080&title_color=008080&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarcelli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=008080&cache_seconds=1800" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorMarcelli&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&cache_seconds=1800" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📈 Gráfico Dinâmico de Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorMarcelli&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=38B2AC&line=38B2AC&point=ffffff&cache_seconds=1800" alt="Activity Graph" width="95%" />
+</div>
+
+---
+
+### 📊 Analytics & Impacto em Tempo Real
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorMarcelli&show_icons=true&hide_border=true&bg_color=0D1117&text_color=E2E8F0&icon_color=38B2AC&title_color=38B2AC&border_radius=10&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarcelli&layout=compact&hide_border=true&bg_color=0D1117&text_color=E2E8F0&title_color=38B2AC&border_radius=10&cache_seconds=1800" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorMarcelli&theme=radical&hide_border=true&background=0D1117&ring=008080&currStreakNum=008080&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorMarcelli&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC&currStreakNum=E2E8F0&sideLabels=E2E8F0&sideNums=E2E8F0&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
