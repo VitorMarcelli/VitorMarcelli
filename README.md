@@ -61,14 +61,6 @@ Acredito que a excelência técnica é impulsionada pelo aprendizado contínuo. 
 
 ---
 
-### 🏆 Troféus de Contribuição no GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorMarcelli&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&cache_seconds=1800" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📈 Gráfico Dinâmico de Atividade
 
 <div align="center">
