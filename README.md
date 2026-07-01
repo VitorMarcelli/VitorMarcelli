@@ -72,8 +72,8 @@ Acredito que a excelência técnica é impulsionada pelo aprendizado contínuo. 
 ### 📊 Analytics & Impacto em Tempo Real
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorMarcelli&show_icons=true&hide_border=true&bg_color=0D1117&text_color=E2E8F0&icon_color=38B2AC&title_color=38B2AC&border_radius=10&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarcelli&layout=compact&hide_border=true&bg_color=0D1117&text_color=E2E8F0&title_color=38B2AC&border_radius=10&cache_seconds=1800" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sooty-gamma-70.vercel.app/api?username=VitorMarcelli&show_icons=true&hide_border=true&bg_color=0D1117&text_color=E2E8F0&icon_color=38B2AC&title_color=38B2AC&border_radius=10&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sooty-gamma-70.vercel.app/api/top-langs/?username=VitorMarcelli&layout=compact&hide_border=true&bg_color=0D1117&text_color=E2E8F0&title_color=38B2AC&border_radius=10&cache_seconds=1800" alt="Top Languages" width="48%" />
 </div>
 
 <br>
